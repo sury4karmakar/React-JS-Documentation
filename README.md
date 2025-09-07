@@ -1,3 +1,2 @@
-- RJS1-Create-New-React-App
-- RJS2-React-Lifecycle-Methods
-- RJS3-React-Hooks
+ What is React.js ?
+ ReactJS vs "Vanilla JavaScript": Why Use React?
