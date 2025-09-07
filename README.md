@@ -1,3 +1,5 @@
- What is React.js ?
+What is React.js ?
  
- ReactJS vs "Vanilla JavaScript": Why Use React?
+ReactJS vs "Vanilla JavaScript": Why Use React?
+
+Declarative UI Programming (React)
